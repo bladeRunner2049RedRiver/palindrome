@@ -3,7 +3,7 @@
 >>the word or phrase is added to a json file and shows in the screen if is a palindrome or not
 >>>send a status code of 200 if is palindrome and 400 if it's not
 >>>>even if the server stops, the words or phrases still remain added in the app
->>>>>still working on TDD and BDD tests :(
+>>>>>still working on TDD and BDD tests :( (c'mon braw, u need to implement that!! Need help? Need Blade Runner?
 >>>>>>RESTful, NodeJS, Express, p5, json
 
 # Tips
